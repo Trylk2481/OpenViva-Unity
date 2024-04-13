@@ -27,9 +27,12 @@ EditorBuildSettings:
       type: 2}
     com.unity.localization.settings: {fileID: 11400000, guid: 1241fa79cb1539b49b2e291e216b5ef2,
       type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 2bcaba746567a0342a8928e7bc6de02e,
+      type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 08dd485950628844c81f08f1489466f3,
       type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: b0cb10e782039904495e2f27de552d0e,
       type: 2}
     xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 80309c9f4f4a3914f9c1a70c66e5ccef,
       type: 2}
+  m_UseUCBPForAssetBundles: 0

@@ -359,7 +359,7 @@ namespace RootMotion.Dynamics
             get
             {
                 if (targetAnimator != null) return targetAnimator.updateMode;
-                if (targetAnimation != null) return targetAnimation.animatePhysics ? AnimatorUpdateMode.AnimatePhysics : AnimatorUpdateMode.Normal;
+                if (targetAnimation != null) return targetAnimation.animatePhysics ? AnimatorUpdateMode.Fixed : AnimatorUpdateMode.Normal;
                 return AnimatorUpdateMode.Normal;
             }
         }
